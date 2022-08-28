@@ -1,10 +1,14 @@
 # Reflective Journal
 
-## Week 1:
+## Week 1
+
+##Session 1: Overview and Intro to Scratch
+
+##Session 2: Hello world with scratch
+
+Embed hello world programme?
 
 ### What is Scratch?
-
-hi
 
 Scratch is a visual programming language developed at MIT. We used it for an intro to programming.
 
@@ -14,11 +18,48 @@ Scratch is a visual programming language developed at MIT. We used it for an int
 
 ### Can you share your favourite Scratch project that you have made or remixed?
 
-## Week 2:
+## Week 2
+
+## Session 1: Intro to Github
+
+## Session 2: Making our Research Repository
 
 ### What is git?
 
 ### What is GitHub
+
+Followed the instructions in Roman's Canvas announcement to make my repository. I'm really unfamiliar with this type of program/application so it's a bit to get used to.
+
+Neri Oxman's Age of Entanglement: Creative version of Krebbs Cycle
+
+MVP: Minimum viable product 
+
+Our MVP this week is to create your Research Repository on GitHub.
+
+Encouraged us to be generous about helping others. "There is no plagiarism in the sharing process, so be generous with each other"
+
+If you do help someone else, what was it like? 
+Did you learn anything while describing this to someone else?
+
+Stretch goal: try creating a static site using GitHub itself by following this guide: https://docs.github.com/en/pages
+
+Stretch goal: Add your scratch projects to a page. See announcement week 2 session 2 for instructions
+
+## Week 3: Python Fundamentals
+
+Session 1: Dr. Sarmad Soomro
+
+Session 2: Exercises
+
+1. Get python working on your machine.
+2. MVP: Thursdays class will involve you creating a folder for your own versions of demo code in your github research repository. If you're not sure what your github research repository is, review the requisite session here: Week 2 Session 2: Research Repositories. Getting more familiar with GitHub:  ask your local support lecturers, or your peers who have already started on this. 
+3. Create a folder for code, then within that for python. So that the repository has a code/python path. 
+4. Consider the basics of one python framework that you think is interesting to research further. 
+5. import and use that framework in a basic way.
+6. Reflect on this process in the reflections part of your repository:
+- did it work as expected?
+- Did you encounter troubles? 
+7. add any experiments into a new folder in your repository code/python/[frame-work-name]
 
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
 
