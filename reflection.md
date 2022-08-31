@@ -2,9 +2,9 @@
 
 ## Week 1
 
-##Session 1: Overview and Intro to Scratch
+## Session 1: Overview and Intro to Scratch
 
-##Session 2: Hello world with scratch
+## Session 2: Hello world with scratch
 
 Embed hello world programme?
 
@@ -63,15 +63,31 @@ Session 2: Exercises
 
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
 
+Although I often take time away from my screen, I tend not to plan when I do this. This week I spent a lot of time without taking breaks. I find this challenging because if I am focused on something and then I take time away, I often find I get distracted and don't go back to the original task. I would like to perservere with taking more regular breaks and developing the ability to direct my attention back to the task. I didn't stretch my body consciously at all.
+
+Plan to do this
+
+2 minute stretch routine
+Tricep stretch
+Upper body stretch
+Shoulder stretch
+Sitting trunk rotation
+Neck stretch
+Knee 
+Hamstring
+
+
 ### What is Timeboxing? Have you heard of it before? Will you use it?
+
+Timeboxing is a technique that can help people manage their time. It works by assigning fixed time "boxes" to an activity or task. 
+
+I have heard of and used time blocking before, but not timeboxing. Time blocking... but timeboxing inclu
 
 ### On a a 0-5 scale, how confident are you with each of the assignments?
 
 ### What are of you proud of up to this point in the course?
 
-### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
-
-## 
+### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself.
 
 ### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
 
@@ -101,11 +117,15 @@ Session 2: Exercises
 
 ### What is OOP?
 
+Object Oriented Programming
+
 ### Are you using the canvas content? Do you find it helpful or tedious?
 
 ### Which parts of the work did you find tedious?
 
 ### What is polymorphism?
+
+Polymorphism is a Greek word that means "many-shaped"
 
 ### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
 
@@ -123,6 +143,8 @@ Session 2: Exercises
 
 ### What programming languages are you interested in learning? Why?
 
+I'm interested in learning HTML, CSS and JavaScript because I understand that these are foundational tools for web-based development...Because...
+
 ### What is something kind that someone has done for you?
 
 ### If you were describing programming to someone who knows nothing about it, what would you say?
@@ -130,6 +152,8 @@ Session 2: Exercises
 ### Which parts of this course made you feel doubtful of your own innate ability?
 
 ### What is a fixed mindset?
+
+A fixed mindset believes that intelligence and ability are fixed and can't change. Its easy to slip into a fixed mindset.....
 
 ### What is something kind you have done for someone else?
 
