@@ -10,9 +10,13 @@ Digital garden
 
 ## Software Development Fundamentals
 Week 1: Visual Programming with Scratch
+
 Week 2: Git and Github
+
 Week 3: Python
+
 Week 4: -
+
 Week 5: Agile Rituals
 
 [Reflective Journal](https://github.com/6abrielle/20220870-Research-Repository/blob/main/Reflective-Journal.md)
