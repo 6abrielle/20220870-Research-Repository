@@ -1,4 +1,4 @@
-# Python Fundamentals (Dr. Samrad Soomo
+# Python Fundamentals (Dr. Samrad Soomro)
 ## *08/08*
 
 ## Programming Language: Python
