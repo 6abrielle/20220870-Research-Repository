@@ -19,13 +19,47 @@ It is used for:
 * can be used for rapid prototypling, or for production-ready software development
 
 ## Why Python?
-* works on different platforms (Windows, Linux, Raspberry Pi, etc)
-* has a simple syntax similae to the English language
+* works across platforms without problem (Windows, Linux, Raspberry Pi, etc.)
+* has a simple syntax similar to the English language
 * has syntax that allows developers to write programs with fewer lines than some other programming languages
 * python runs on an interpreter system, meaning that code can be executed as soon as it is written, meaning prototyping can be very quick
-* python can be treated in a **procecural** way, an **object-oriented** way or a **functional way**
+  *  interpreter systems execute code line-by-line and will only stop at an error
+  *  compiler systems convert high level language to low level language and then execute code as a whole block
+* python can be treated in a **procecural** way, an **object-oriented** way or a **functional** way
+
+
 
 **pros** | **cons** 
 --- | --- 
-designed to be intuitive and easy to program in (without sacrificing power)<br />open source, with a large community of packages and resources<br />one of the most commonly used prgogramming languages in the world<br />"tried and true" language that has been in development for decades<br />high quality visualisations<br />runs on most operating systems and platforms | slower than "pure" (i.e. compiled) languages like C++<br />smaller/specialised packages might not be well tested/maintained
+designed to be intuitive and easy to program in (without sacrificing power)<br />open source, with a large community of packages and resources<br />one of the most commonly used prgogramming languages in the world<br />"tried and true" language that has been in development for decades<br />high quality visualisations<br />runs on most operating systems and platforms | slower than "pure" (i.e. **compiled**) languages like C++<br />smaller/specialised packages might not be well tested/maintained
 
+## How to use Python
+### 1. Install python 3 distribution for your system
+*Note: Python 2.7 is no longer maintained and you should do your best to transition all old code to python 3.*
+
+### 2. Download an IDE of your choice OR use VS Code
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [What IDE to use for Python](https://stackoverflow.com/questions/81584/what-ide-to-use-for-python)
+
+### 3. Install useful dependencies (you may not need this for this course)
+* numpty, matplotlib, scipy, nibabel, pandas, sklearn, pygame etc.
+* different libraries exist for different purposes and applications
+
+## Hello World in Python
+
+`print("Hello, World!")`
+
+### Hello World in C#
+Namespace MyFirstCode{
+
+`Class System{<br />
+  public static void main(String[]args){<br /> 
+  Console.WriteLine("Hello World");
+ }
+ }
+ }`
+ 
+ By comparing Hello World in Python to C#, we can see how simple it can be.
+ 
+ ## Built-in data types
+ 
