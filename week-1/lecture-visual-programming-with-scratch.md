@@ -18,7 +18,7 @@ Oxman argues that knowledge can no longer be ascribed to, or produced within dis
 ![Illustration of Oxman's Krebs Cycle of Creativity](https://spectrum.mit.edu/wp-content/uploads/neri-oxmans-krebs-cycle-of-creativity-830x754.jpg)
 
 ## Course Overview
-Click here to navigate to course overview discussed in week one LINK.
+[Course Overview](https://github.com/6abrielle/20220870-research-repository/blob/07d4655a5ca89765b37488b565ac1c9e735eba01/week-1/course-outline.md) discussed in week 1.
 
 ## Visual Programming with Scratch
 
