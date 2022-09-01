@@ -25,7 +25,7 @@ It is used for:
 * python runs on an interpreter system, meaning that code can be executed as soon as it is written, meaning prototyping can be very quick
 * python can be treated in a **procecural** way, an **object-oriented** way or a **functional way**
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+**pros** | **cons** 
+--- | --- 
+* designed to be intuitive and easy to program in (without sacrificing power)|* slower than "pure" (i.e. compiled) languages like C++ 
+
