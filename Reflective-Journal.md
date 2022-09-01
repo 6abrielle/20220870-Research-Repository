@@ -1,162 +1,164 @@
-# Reflective Journal
+# Relective Journal
+
+*Note: The reflections under question headings are generally responses to given prompts, although I have amended and arranged them to suit me. My own unprompted thoughs and reflections can be found in paragraphs under each section.
 
 ## Week 1
-
-## Session 1: Overview and Intro to Scratch
-
-## Session 2: Hello world with scratch
-
-Embed hello world programme?
-
-### What is Scratch?
-
-Scratch is a visual programming language developed at MIT. We used it for an intro to programming.
+## *Visual Programming with Scratch*
 
 ### What is visual programming?
+Visual programming is programming using visual expressions, rather than typing text. Users manipulate boxes and other graphics and arrange them to represent relations to each other. 
 
-### What are some programming principles that you have discovered?
+### What is Scratch?
+Scratch is a visual programming language developed at MIT. It can help users understand programming logic, strategies for solving problems as well as principles for designing projects and communicating ideas. We used it for an introduction to programming, where we created a canonical "Hello World" program. For me, I think Scratch will be useful to understand some of the logic and concepts behind programming in a fun environment.
 
-### Can you share your favourite Scratch project that you have made or remixed?
+[Scratch](https://scratch.mit.edu/)
+[My profile on Scratch](https://scratch.mit.edu/users/6abrielle/)
 
-## Week 2
+### What are some programming principles you have discovered?
 
-## Session 1: Intro to Github
+### What is a variable?
+A variable is a value that can change depending on conditions or on information passed to the program.
 
-## Session 2: Making our Research Repository
+### Can you share your favourite Scratch project you have made or remixed?
+Find my scratch projects [here](ADD LINK TO STATIC SITE)
 
-### What is git?
+### What is polymorphism?
+Polymorphism is a Greek word that means "many-shaped". In object-oriented programming it refers to the ability of a variable, function or object to take on multiple forms. A language that features polymorphism allows developers to program in the general rather than in the specific.
 
-### What is GitHub
+### Krebs Cycle of Creativity (Oxman, 2016)
+Oxman argues that knowledge can no longer be ascribed to, or produced within disciplinary boundaries, but is entirely tangled. The below image is a map for four domains of creative expression--science, engineering, design and art.
 
-Followed the instructions in Roman's Canvas announcement to make my repository. I'm really unfamiliar with this type of program/application so it's a bit to get used to.
+![Illustration of Oxman's Krebs Cycle of Creativity](https://spectrum.mit.edu/wp-content/uploads/neri-oxmans-krebs-cycle-of-creativity-830x754.jpg)
 
-Neri Oxman's Age of Entanglement: Creative version of Krebbs Cycle
-
-MVP: Minimum viable product 
-
-Our MVP this week is to create your Research Repository on GitHub.
-
-Encouraged us to be generous about helping others. "There is no plagiarism in the sharing process, so be generous with each other"
-
-If you do help someone else, what was it like? 
-Did you learn anything while describing this to someone else?
-
-Stretch goal: try creating a static site using GitHub itself by following this guide: https://docs.github.com/en/pages
-
-Stretch goal: Add your scratch projects to a page. See announcement week 2 session 2 for instructions
-
-## Week 3: Python Fundamentals
-
-Session 1: Dr. Sarmad Soomro
-
-Session 2: Exercises
-
-1. Get python working on your machine.
-2. MVP: Thursdays class will involve you creating a folder for your own versions of demo code in your github research repository. If you're not sure what your github research repository is, review the requisite session here: Week 2 Session 2: Research Repositories. Getting more familiar with GitHub:  ask your local support lecturers, or your peers who have already started on this. 
-3. Create a folder for code, then within that for python. So that the repository has a code/python path. 
-4. Consider the basics of one python framework that you think is interesting to research further. 
-5. import and use that framework in a basic way.
-6. Reflect on this process in the reflections part of your repository:
-- did it work as expected?
-- Did you encounter troubles? 
-7. add any experiments into a new folder in your repository code/python/[frame-work-name]
-
-### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
-
-Although I often take time away from my screen, I tend not to plan when I do this. This week I spent a lot of time without taking breaks. I find this challenging because if I am focused on something and then I take time away, I often find I get distracted and don't go back to the original task. I would like to perservere with taking more regular breaks and developing the ability to direct my attention back to the task. I didn't stretch my body consciously at all.
-
-Plan to do this
-
-2 minute stretch routine
-Tricep stretch
-Upper body stretch
-Shoulder stretch
-Sitting trunk rotation
-Neck stretch
-Knee 
-Hamstring
-
-
-### What is Timeboxing? Have you heard of it before? Will you use it?
-
-Timeboxing is a technique that can help people manage their time. It works by assigning fixed time "boxes" to an activity or task. 
-
-I have heard of and used time blocking before, but not timeboxing. Time blocking... but timeboxing inclu
-
-### On a a 0-5 scale, how confident are you with each of the assignments?
-
-### What are of you proud of up to this point in the course?
-
-### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself.
-
-### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
-
-### What is Python?
-
-### Have you developed a habit of exploring?
-
-### Have you meditated before?
-
-### Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
-
-### Do you consider yourself a developer yet?
-
-### Do you value creativity? As a value itself? What about as a tool for learning to think logically?
-
-### How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
-
-### Have you had a fight response to technology? What does it feel like? How did you overcome this?
-
-### What is an IDE?
-
-### What did you learn out of the Marshmallow Challenge?
-
-### Did you have any blocks during this challenge? How did you overcome them?
-
-### So far, what was the hardest moment of this course for you?
-
-### What is OOP?
-
-Object Oriented Programming
-
-### Are you using the canvas content? Do you find it helpful or tedious?
+### Which parts of the work went well?
+I enjoyed playing around and remixing the "Hello World" program we made during class. 
 
 ### Which parts of the work did you find tedious?
 
-### What is polymorphism?
+### How did you feel after this week's lessons?
 
-Polymorphism is a Greek word that means "many-shaped"
+### On a 0-5 scale, how would you rate your experience and understanding?
 
-### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
+
+## Week 2
+## *Making a Research Repository with GitHub*
+
+### How do you intend to approach my Research Repository?
+
+### On a 0-5 scale, how confident are you with the assignment?
+
 
 ### What is an MVP? How would you describe it to a group of 6 year olds?
+A minimum viable product (MVP) is a version of a product with just enough features to be usable by early customers who can then provide feedback for future development.
 
-### What is the hardest problem you have solved so far?
+### Which parts of the work went well?
+
+### Which parts of the work did you find tedious?
+
+### How did you feel after this week's lessons?
+
+### On a 0-5 scale, how would you rate your experience and understanding?
+
+## Week 3
+## *Python*
+
+### What os OOP?
+
+### What is an IDE?
 
 ### What is pair programming?
 
-### What are you looking forward to learning about programming?
+### What is Python?
 
-### What is conscious listening?
+### Which parts of the work went well?
 
-### What is a variable?
+### Which parts of the work did you find tedious?
 
-### What programming languages are you interested in learning? Why?
+### How did you feel after this week's lessons?
 
-I'm interested in learning HTML, CSS and JavaScript because I understand that these are foundational tools for web-based development...Because...
+### On a 0-5 scale, how would you rate your experience and understanding?
 
-### What is something kind that someone has done for you?
+## Week 4
 
-### If you were describing programming to someone who knows nothing about it, what would you say?
+## Week 5
+## *Agile Rituals*
 
-### Which parts of this course made you feel doubtful of your own innate ability?
+### What did you learn from the circle meeting? How did you feel?
 
-### What is a fixed mindset?
+### Did you have any blocs during this process? How did you overcome them?
 
-A fixed mindset believes that intelligence and ability are fixed and can't change. Its easy to slip into a fixed mindset.....
+### What did you learn from the Marshmallow Challenge?
 
-### What is something kind you have done for someone else?
+### Did you have any blocks during this challenge? How did you overcome them?
+
+### Which parts of the work went well?
+
+### Which parts of the work did you find tedious?
+
+### How did you feel after this week's lessons?
+
+### On a 0-5 scale, how would you rate your experience and understanding?
+
+## Looking back: Final Reflections for the Assignment
+
+## *Learning Strategies*
+
+### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent and describe a strategy for yourself.
+
+### Is there something over which you have gained a degree of mastery before in your life? What did it take?
+
+### What is Timeboxing? Have you heard of it before? Will you use it?
+
+### Have you developed a habit of perservering?
+
+### Have you developed a habit of exploring?
+
+## *Habits and Attitude*
+
+### Do you value creativity? As a value itself? What about as a tool for learning to think logically?
+
+### Did you remember to take regular breaks away from your screen this week? How often? Did you stretch your body?
+
+### Have you meditated before?
 
 ### Have you done mindfulness or attention training before?
 
-### Have you developed a habit of persevering?
+### What does autotelic mean?
+
+### What is conscious listening?
+
+### What is a fixed mindset?
+
+### What is something kind that someone has done for you?
+
+### What is something kind you have done for someone else?
+
+## *Overall*
+
+### Do you consider yourself a developer yet?
+
+### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
+
+### Have you had a fight response to technology? What does it feel like? How did you overcome this?
+
+### So far, what was the hardest moment of this course for you?
+
+### What is the hardest problem you have solved so far?
+
+### What parts of this course made you feel doubtful of your own innate ability?
+
+### If you were describing programming to someone who knows nothing about it, what would you say?
+
+### Are you using the Canvas content? Do you find it helpful or tedious?
+
+### Did you hear a self critical voice in your head throughout the process of learning during these last few weeks? What did it say to you? Do you believe what it said?
+
+### What are you proud of up to this point in the course?
+
+### Which parts 
+
+## *My Interests*
+
+### What are you looking forward to about programming?
+
+### What programming languages are you interested in learning? Why?
