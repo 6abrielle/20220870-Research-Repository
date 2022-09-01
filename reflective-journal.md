@@ -1,6 +1,6 @@
 # Relective Journal
 
-*Note: The reflections under question headings are generally responses to given prompts, although I have amended and arranged them to suit me. My own unprompted thoughs and reflections can be found in paragraphs under each section.
+*Note: The reflections under question headings are generally responses to given prompts, although I have amended and arranged them to suit me. My own unprompted thoughs and reflections can be found in paragraphs under each section*
 
 ## Week 1
 ## *Visual Programming with Scratch*
