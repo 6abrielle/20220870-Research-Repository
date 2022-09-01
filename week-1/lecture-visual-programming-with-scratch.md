@@ -22,7 +22,7 @@ Click here to navigate to course overview discussed in week one LINK.
 
 ## Visual Programming with Scratch
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pmfCwauN1c0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Video: Visual programming – Introduction to Scratch, by Margo Tinawi](https://www.youtube.com/watch?v=pmfCwauN1c0&ab_channel=EuropeCodeWeek)
 
 ### Visual Programming
 Visual programming is programming using visual expressions, rather than typing text. Users manipulate boxes and other graphics and arrange them to represent relations to each other.
