@@ -16,19 +16,24 @@ Software development is an **inherently interdisciplinary pursuit** which covers
 
 ## Visual Programming with Scratch
 
-**Events**:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pmfCwauN1c0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Loops**:
+### Visual Programming
+
+### Scratch
+
+**Events**: An action that occurs as a result of the user or another source and that has significane for the program in use. For example a mouse click, movement or key stroke.
+
+**Loops**: A sequence of instructions that repeat continually until a certain condition is reached.
 
 **Conditionals**:
 
-**Variables**:
+**Variables**: A value that can change, depending on conditions or on information passed to the program.
 
 **Operators**:
 
-**Sprites**: 
-![Scratch cat](https://en.scratch-wiki.info/w/images/ScratchCat-Small.png)
+**Sprite**: A bitmap graphic that is integrated into a larger scene.
 
-**Scripts**:
+**Scripts**: A program or sequence of instructions that is interpreted or carried out by another program rather than by the computer processor.
 
 ###
