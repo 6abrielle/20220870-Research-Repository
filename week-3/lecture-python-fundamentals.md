@@ -27,5 +27,5 @@ It is used for:
 
 **pros** | **cons** 
 --- | --- 
-* designed to be intuitive and easy to program in (without sacrificing power)|* slower than "pure" (i.e. compiled) languages like C++ 
+* designed to be intuitive and easy to program in (without sacrificing power)| * slower than "pure" (i.e. compiled) languages like C++ 
 
