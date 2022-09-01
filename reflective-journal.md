@@ -1,6 +1,6 @@
 # Relective Journal
 
-*Note: The reflections under question headings are generally responses to given prompts, although I have amended, arranged and added to them to suit me. My own unprompted thoughs and reflections can be found in paragraphs under each section. You can also find additional reflective comments throughout other parts of my repository.*
+*Note: The reflections under question headings are generally responses to given prompts, although I have amended, arranged and added to them to suit me.*
 
 ## Week 1
 ## *Visual Programming with Scratch*
@@ -50,6 +50,18 @@ I felt concerned and a bit discouraged because I had trouble understanding some 
 ## Week 2
 ## *Making a Research Repository with GitHub*
 
+### What is Git?
+Git is an open-source version control system, which means that all code and the version history of code is stored locally on a developer's computer (my understanding is that it would be stored across the computers of all developers working on a specific project).
+
+### What is GitHub?
+GitHub is this website!! The cloud-based version of Git. Like Git, it's used to track changes and store code. 
+
+### What is version control?
+Version control involves tracking changes to software code. It's important in software because things often break. Track changes in Microsoft Word is a kind of version control. It's like the movie *Back to the Future*!
+
+### How will we utilise GitHub?
+We will create a repository on GitHub and treat it as a "digital garden" where we store thoughts, ideas, things we find difficult and research. We are aiming to collect evidence of our learning process as we go and observe how it grows. We will utilise markdown to format our repositories. In addition, the repository assessment is intended to be a way to introduce us to Git, which is used very seriously by developers, in a not so serious way.
+
 ### How do you intend to approach my Research Repository?
 The idea of a "digital garden" really appeals to me (as would any nature-related metaphor!!). I would like to have a regular practice where I write down ideas and see them grow.
 
@@ -58,29 +70,46 @@ The idea of a "digital garden" really appeals to me (as would any nature-related
 * *Goal: Think about exploring a different mindset when it comes to lerning and develop a new attitude.
 
 ### What is the relationship between technology and stress? Why do we need to be conscious of this?
-We want to find our own way of going with the flow, even when things don't work out
-
-### What is an MVP? How would you describe it to a group of 6 year olds?
-A minimum viable product (MVP) is a version of a product with just enough features to be usable by early customers who can then provide feedback for future development. Roman has used the term to outline what is expected ... It is useful because it sets a clear standard and can help us avoid doing unhelpful or time consuming work and focus on the most... I don't know that you would need to explain it to 6 year olds because they would probably just do the MVP. Maybe I'd say soing something in the easiest way.
+Technology can cause stress in a lot of different ways:
+* when we don't understand how to use it
+* when it doesn't work as we expect it to or when we need it to
+* constant access to work and distraction
+Throughout this course, we want to find our own way of managing stress that technology can cause...
 
 ### Which parts of the work went well?
+Following the directed steps to fork the example repository and create my own were well within my reach
 
-### Which parts of the work did you find tedious?
+### What did you struggle with?
+I felt quite clueless during the mural explanation of Git/version control in the lecture. After rewatching the lecture, I understand a bit more about how and why teams of developers utilise version control systems.
 
 ### How did you feel after this week's lessons?
 
 ### On a 0-5 scale, how would you rate your experience and understanding?
 
 ## Week 3
-## *Python*
+## *Python Fundamentals*
 
 ### What is OOP?
+**Object-Oriented Programming** is programming using languages that are oriented around the objects (things, nouns) that they are to process. For example, the statement "Fred walks" is written in the form `"fred.walks()"` instead of the functional form `"walks(fred)"` where the verb is emphasised. It has had a huge positive impact on how programs are now written.
+
+[Object-oriented thinking](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/object-oriented-thinking?u=36492252)
+
+[Introduction to object-oriented terms](https://www.linkedin.com/learning/objective-c-essential-training/introduction-to-object-orientation-terms?u=36492252)
 
 ### What is an IDE?
-
-### What is pair programming?
+An **Integrated Development Environment** is an application/environment specifically designed for writing programs. Some programming languages require the use of an IDE. I have used Visual Studio Code with my Python coding. I also want to try out PyCharm.
 
 ### What is Python?
+Python is a popular programming language created by Guido van Rossum and released in 1991. It can be treated in a procedural way, an object-oriented wat or a functional way. It also runs on an interpreter system, meaning that code can be executed as soon as it's written.
+
+###Why are we learning Python?
+A few reasons:
+* it has a simple syntax similar to English
+* it works across many different platforms
+* it can be used for lots of different purposes: programming, web development, mobile application development, maths
+
+### What is pair programming?
+An **agile** software development technique where two programmers work together at one workstation. One person is the **driver** who writes the code while the other, the **observer** reviews each line of code as it is typed. The two programmers switch roles frequently.
 
 ### Which parts of the work went well?
 
@@ -93,13 +122,19 @@ A minimum viable product (MVP) is a version of a product with just enough featur
 ### Am I struggling with this kind of traditional coding?
 
 ## Week 4
+## *Video Graph*
 
 ### What is functional fixedness?
+A cognitive bias that impacts an individual's ability to be creative. The term is often used to describe why an individual develops an inability to use an object in more ways than it is traditionally intended to be used. Standard programming (where we try to recieve an expected output from a given input) contains an assumption about the underlying purpose of technology that can limit your creativity. We should be open to creating something unexpected i.e. **unexpect the expected**
 
-### Unexpect the expected
-So far we have followed a fairly straight forward path for programmers where we try to receive an expected output from a given input. This is the standard way that people build programs, and also the standard way that programming is taught. But this format itself contains an assumption about the underlying purpose of technology which can limit your creativity. Please read about "functional fixedness." (What is functional fixedness?Links to an external site.) 
+I fall into a functional fixedness mindset when I am not confident to explore and push boundaries. In those cases, it can feel comforting to work within existing parameters.
 
-What if the purpose is to create something unexpected?
+### How can we avoid functional fixedness?
+* abstract the problem--simplifying it to its essential elements before judging ideas
+* draw inspiration from unexpected places
+* opinions from different disciplines
+
+[Functional fixedness](https://thedecisionlab.com/biases/functional-fixedness)
 
 ### How did you feek as a subject of a video?
 
@@ -120,30 +155,18 @@ Please make sure you are up to date with the exercises provided so far: If you m
 
 ### On a 0-5 scale, how would you rate your experience and understanding?
 
- At some point when you are not tired, please spend some time completely alone and quite and still.
-
-Put away your phone, close your eyes.
-
-Try to notice things but not change them. 
-
-After you have been able to be still for as long as you can, then use your imagination to change the feelings.
-
-Change the color, change the shape of things in your imagination.
-
-Perhaps you will remember a time when you were very young, we will need that person.
-
-This week we will take another turn. 
-
-
-
 ## Week 5
 ## *Agile Rituals*
+
+### What is an MVP? How would you describe it to a group of 6 year olds?
+A **Minimum Viable Product** is a version of a product with just enough features to be usable by early customers who can then provide feedback for future development. In this course, Roman has given MVPs to set a clear intention and standard for work in a given week. It's helpful because it allows us to streamline our work process and focus on what's most important.
 
 ### What did you learn from the circle meeting? How did you feel?
 
 ### Did you have any blocs during this process? How did you overcome them?
 
 ### What did you learn from the Marshmallow Challenge?
+The exercise teaches important lessons about software decvelopment process and prototyping.
 
 ### Did you have any blocks during this challenge? How did you overcome them?
 
