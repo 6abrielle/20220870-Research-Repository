@@ -52,14 +52,42 @@ designed to be intuitive and easy to program in (without sacrificing power)<br /
 ### Hello World in C#
 Namespace MyFirstCode{
 
-`Class System{<br />
-  public static void main(String[]args){<br /> 
+Class System{
+  public static void main(String[]args){
   Console.WriteLine("Hello World");
- }
- }
- }`
+}
+}
+}
  
  By comparing Hello World in Python to C#, we can see how simple it can be.
  
- ## Built-in data types
+ ## Visual Studio Code
+ [Getting Started with VS Code](https://code.visualstudio.com/docs/?dv=osx) 
  
+ ### Useful Extensions for VS Code
+ Python
+ Python for VS Code
+ Python Indent
+ autoDocstring
+ Python Extension Pack
+ 
+ ### Other IDEs
+ [PyCharm](https://www.jetbrains.com/pycharm/download/#section=mac) 
+
+## Built-in data types
+?
+
+## Python Data Types
+?
+
+## Variables in Python
+A **variable** is a name given to a storage area that our programs can manipulate (i.e. the data can be changed).
+
+In a **constant** data cannot be changed (during execution).
+
+Each variable in Python has a specific type which determines:
+* the size and layout of the variable's memory
+* the range of values that can be stored within that memory, and
+* the set of operations that can be applied to the variable
+
+A **constant** cannot be changed (during execution)
