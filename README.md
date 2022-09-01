@@ -19,5 +19,5 @@ Week 4: -
 
 Week 5: Agile Rituals
 
-### [Reflective Journal](https://github.com/6abrielle/20220870-research-repository/blob/main/reflective-rournal.md)
+### [Reflective Journal](https://github.com/6abrielle/20220870-research-repository/blob/main/reflective-journal.md)
 
