@@ -50,6 +50,8 @@ I enjoyed playing around and remixing the "Hello World" program we made during c
 
 ### On a 0-5 scale, how confident are you with the assignment?
 
+### What is the relationship between technology and stress? Why do we need to be conscious of this?
+We want to find our own way of going with the flow, even when things don't work out
 
 ### What is an MVP? How would you describe it to a group of 6 year olds?
 A minimum viable product (MVP) is a version of a product with just enough features to be usable by early customers who can then provide feedback for future development.
@@ -131,6 +133,8 @@ A minimum viable product (MVP) is a version of a product with just enough featur
 ### What is conscious listening?
 
 ### What is a fixed mindset?
+
+![growth vs fixed mindset](https://assets.website-files.com/5e61c61d7b1e830be9d1c47a/5f6d8ebab07a96ab7f5feebf_Growth%20vs%20Fixed%20Mindset%20Infographic.png)
 
 ### What is something kind that someone has done for you?
 
