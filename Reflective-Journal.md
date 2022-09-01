@@ -12,6 +12,7 @@ Visual programming is programming using visual expressions, rather than typing t
 Scratch is a visual programming language developed at MIT. It can help users understand programming logic, strategies for solving problems as well as principles for designing projects and communicating ideas. We used it for an introduction to programming, where we created a canonical "Hello World" program. For me, I think Scratch will be useful to understand some of the logic and concepts behind programming in a fun environment.
 
 [Scratch](https://scratch.mit.edu/)
+
 [My profile on Scratch](https://scratch.mit.edu/users/6abrielle/)
 
 ### What are some programming principles you have discovered?
@@ -21,6 +22,8 @@ A variable is a value that can change depending on conditions or on information 
 
 ### Can you share your favourite Scratch project you have made or remixed?
 Find my scratch projects [here](ADD LINK TO STATIC SITE)
+
+<iframe src="https://scratch.mit.edu/projects/726666307/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 ### What is polymorphism?
 Polymorphism is a Greek word that means "many-shaped". In object-oriented programming it refers to the ability of a variable, function or object to take on multiple forms. A language that features polymorphism allows developers to program in the general rather than in the specific.
