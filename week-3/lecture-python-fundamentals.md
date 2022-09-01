@@ -27,5 +27,5 @@ It is used for:
 
 **pros** | **cons** 
 --- | --- 
-designed to be intuitive and easy to program in (without sacrificing power)| slower than "pure" (i.e. compiled) languages like C++<br />smaller/specialised packages might not be well tested/maintained
+designed to be intuitive and easy to program in (without sacrificing power)<br />open source, with a large community of packages and resources<br />one of the most commonly used prgogramming languages in the world<br />"tried and true" language that has been in development for decades<br />high quality visualisations<br />runs on most operating systems and platforms | slower than "pure" (i.e. compiled) languages like C++<br />smaller/specialised packages might not be well tested/maintained
 
