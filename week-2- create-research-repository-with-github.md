@@ -3,7 +3,7 @@
 
 ## Create a Research Repository with Git/GitHub
 
-## GitHub
+### GitHub
 GitHub is a **version control** software that tracks all changes made within the program. This is important for software because things often break and need to be reverted back to a previous state. It is similar to the track changes function on Microsoft Word.
 
 [What is GitHub? A Beginner's Introduction to GitHub](https://kinsta.com/knowledgebase/what-is-github/)
@@ -50,3 +50,6 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#videos)
 
 [Comprehensive Markdown Spec](https://daringfireball.net/projects/markdown/)
+
+### kebab-case
+A programming naming convention where the developer replaces spaces between words with a dash. Use this for naming repository pages. Make them descrpitive.
