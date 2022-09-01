@@ -91,3 +91,33 @@ Each variable in Python has a specific type which determines:
 * the set of operations that can be applied to the variable
 
 A **constant** cannot be changed (during execution)
+
+### Variable Names
+A variable can have a short name (like x or y) or a more descriptive name (age, carname, total_volume).
+
+Rules for Python Variable names:
+* a variable name must start with a letter or underscore character
+* a variable name cannot start with a number
+* a variable name can only contain alpha-numeric characters and underscores (a-z, 0-9 and _ )
+* variable names are case-sensitive (Age, age, AGE)
+
+Valid variable examples:
+`myvar = "anything"`
+
+`my_var = "anything"`
+
+`_my_var = "anything"`
+
+`myVar = "anything"`
+
+`MYVAR = "anything"`
+
+`myvar2 = "anything"`
+
+## Control Structures: Conditions
+
+Decision making structures requires one or more conditions to be evaluated by the program.
+
+Such structures also need:
+* statement(s) to be executed if the condition is determined to be true, and 
+* statement(s) to be executed if the condition is determined to be false
