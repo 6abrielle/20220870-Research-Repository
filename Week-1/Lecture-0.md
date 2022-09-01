@@ -26,7 +26,7 @@ Software development is an **inherently interdisciplinary pursuit** which covers
 
 **Loops**: A sequence of instructions that repeat continually until a certain condition is reached.
 
-**Conditionals**:
+**Conditionals**: 
 
 **Variables**: A value that can change, depending on conditions or on information passed to the program.
 
