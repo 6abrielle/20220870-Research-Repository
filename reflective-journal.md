@@ -144,7 +144,7 @@ I fall into a functional fixedness mindset when I am not confident to explore an
 [A Suvey on Bias and Fairness in Machine Learning](https://github.com/6abrielle/20220870-research-repository/blob/main/week-4/A%20Survey%20on%20Bias%20and%20Fairness%20in%20Machine%20Learning.pdf)
 
 The ideas of how bias is built into machine learning systems, and in techology we utilise in general is fascinating to me. I have a background in social sciences (sociology, politics and psychology) so I am really interested in how we can disrupt institutional biases. I'm really looking forward to learning how this manifests in technology we use. 
-* *Goal: This article looks heavy going, so I look forward to looking into it at a later date.
+* *Goal: This article looks heavy going, so I look forward to looking into it at a later date.*
 
 ### What is a graph?
 In computer science, a graph is a collection of data, used to illustrate the flow of information from one dataset to another. The relationships can be complex and non-linear.
