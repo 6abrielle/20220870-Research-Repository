@@ -1,6 +1,6 @@
 # Relective Journal
 
-*Note: The reflections under question headings are responses to given prompts, which I have amended, arranged and added to to best suit my learning.*
+*My reflections are arranged under questions and headings, categorised by week and overarching reflections. They include responses to given prompts, which I have amended, arranged and added to to best suit my learning.*
 
 ## Week 1
 ## *Visual Programming with Scratch*
