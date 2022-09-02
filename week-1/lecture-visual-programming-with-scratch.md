@@ -44,3 +44,4 @@ Scratch is a visual programming language developed at MIT. It can help users und
 
 **Scripts**: A program or sequence of instructions that is interpreted or carried out by another program rather than by the computer processor.
 
+<!--- want to deepen my understanding and get a better context for what these things are and what they do --->
