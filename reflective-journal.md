@@ -88,7 +88,6 @@ A mixture of excited about being intoduced to new ideas and the approach to the 
 ### On a 0-5 scale, how would you rate your experience and understanding?
 2.5, because I was able to follow the directions that were specifically outlined, but I haven't felt able to explore and do my own thing with GitHub yet.
 
-
 ## Week 3
 ## *Python Fundamentals*
 
@@ -194,15 +193,13 @@ This week was a pretty solid 4.5. I like learning about people-focused framework
 ### Personal learning strategy
 I really embarked on a terrible learning strategy for the tech support class. With the Canvas content, I became a little obsessed with going over it and taking notes in an extremely methodical way, which while did help me become familiar with the content, was quite tedious and took a lot of time. This is a fairly typical learning blunder for me. I've integrated new concepts like MVPs and timeboxing to develop a new strategy below.
 
-`
-1. Abstract the problem: define tasks in simple form
-2. Define MVP
-3. Set timeboxes
-4. Take break and stretch hourly
-5. Review and reflect on learning weekly, amend learning strategy accordingly
-6. Show up
-7. Cultivate an attitude of openness and curiosity
-`
+> 1. Abstract the problem: define tasks in simple form
+> 2. Define MVP
+> 3. Set timeboxes
+> 4. Take break and stretch hourly
+> 5. Review and reflect on learning weekly, amend learning strategy accordingly
+> 6. Show up
+> 7. Cultivate an attitude of openness and curiosity
 
 ### What is Timeboxing? Have you heard of it before? Will you use it?
 Timeboxing is a goal oriented technique that works on the assumption that "work expands so as to fill the time available for its completion". You work on an activity for a predetermined period of time, and attempt to limit the amount of time you spend on an activity. I have heard of and used time blocking before, but not timeboxing. As someone with ADHD, tasks without defined limits can seem to go on endlessly--highly engaged and doing too much work if I am interested, and not enough if I am not interested. I think this could be a really useful strategy for me and I look forward to implementing it.
@@ -211,7 +208,7 @@ Timeboxing is a goal oriented technique that works on the assumption that "work 
 
 [What is Timeboxing](https://www.youtube.com/watch?v=kZYjchCf68s&ab_channel=ScrumInc)
 
-### 
+### Stretching
 Stretches to do for a couple of minutes during hourly breaks: [Stretches for desk workers](https://www.youtube.com/watch?v=7Lu4r0A7hN4&ab_channel=MountainLandPhysicalTherapy)
 
 Short daily yoga practice: [Office Break Yoga](Office Break Yoga | 14 Min. Yoga Practic](https://www.youtube.com/watch?v=M-8FvC3GD8c&ab_channel=YogaWithAdriene)
@@ -227,20 +224,19 @@ The only thought I have on this is that it is much easier to gain mastery over t
 ### Meditation and mindfulness
 My favourite resource for mindfulness is Pema Chodron's [*When Things Fall Apart*](https://www.amazon.com/When-Things-Fall-Apart-Difficult/dp/1611803438). It's written specifically for those navigating difficult times, however the message is about **approaching struggles with openness and curiosity**. This can apply to all problems and struggles, and an idea I'd like to incorporate into my software learning strategy.
 
-### What is conscious listening?
+### Conscious listening
+To listen consciously is to be intentionally present during communication between yourself and another while being aware of your own and the other's feelings and needs.
 
-### What is a fixed mindset?
+[Video: Conscious listening](https://www.youtube.com/watch?v=CKayQthlwts&ab_channel=TEDxTalks)
 
+### Fixed vs. growth mindset
 ![growth vs fixed mindset](https://assets.website-files.com/5e61c61d7b1e830be9d1c47a/5f6d8ebab07a96ab7f5feebf_Growth%20vs%20Fixed%20Mindset%20Infographic.png)
 
-### What is something kind that someone has done for you?
+## *Refleception: Reflecting on the repository process*
+I really like the concept behind this assignment. I hope to continue to add to this repository going forward. The biggest takeaway for me is the importance of learning as a process, and that documenting the process without self-judgement is more effective than seeking or *hoping* to develop a degree of mastery over really complex subject matter. As I mentioned previously, I have a tendency to avoid work when I don't feel confident or already have a degree of achievement in the area. This is part of a fixed mindset that I am trying to shift to a growth mindset. For this reason, I sometimes haven't added to my repository as I went, sometimes jotting down reflections on paper or in notion instead. I think this assignment has taught me a lesson in that regard, the version control aspect should be used to embrace the process and can be reflected on to see how far one has progressed.
 
-### What is something kind you have done for someone else?
-
-## *Overall*
-
-### Do you consider yourself a developer yet?
-
+## *Final thoughts on the course as a whole*
+While I don't consider myself a developer yet, I'm more open
 ### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
 
 ### So far, what was the hardest moment of this course for you?
